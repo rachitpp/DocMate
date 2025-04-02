@@ -6,7 +6,6 @@
   [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://docmate-frontend.vercel.app/)
   [![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge)](https://reactjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-Latest-green?style=for-the-badge)](https://nodejs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-3.3.6-38B2AC?style=for-the-badge)](https://tailwindcss.com/)
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 </div>
 
@@ -147,13 +146,6 @@ Docmate is a cutting-edge doctor appointment scheduling system designed to revol
    npm start
    ```
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="400"/>
-  <img src="screenshots/appointment-view.png" alt="Appointment View" width="400"/>
-</div>
-
 ## 🌐 Live Demo
 
 Experience Docmate in action: [https://docmate-frontend.vercel.app/](https://docmate-frontend.vercel.app/)
@@ -200,7 +192,6 @@ We welcome contributions to Docmate! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
 
 <table>
   <tr>
@@ -225,9 +216,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@docmate.com
-- 💬 Discord: [Join our community](https://discord.gg/docmate)
-- 📝 Issues: [GitHub Issues](https://github.com/yourusername/docmate/issues)
+- 📧 Email: rachitpanwar0072@gmail.com
+
 
 ---
 
