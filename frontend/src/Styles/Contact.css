@@ -1,0 +1,43 @@
+
+
+form1 {
+flex: 1;
+display: block;
+box-shadow: 1px 1px 3px 2px #ddd;
+margin: 40px auto;
+max-width: 400px;
+max-height: 5000px;
+padding: 25px 40px;
+}
+
+form1 input,
+textarea {
+display: flex;
+flex-direction: column;
+width: 100%;
+padding: 8px;
+font-family: 'Poppins';
+border: 1px solid;
+}
+
+form1 span {
+color: rgb(92, 82, 181);
+}
+
+form1 button {
+height: 30px;
+width: 80px;
+background-color: #4caf50;
+color: rgb(92, 82, 181);
+padding: 10px 15px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+#map {
+width: 90%;
+padding-right: 50px;
+max-height: 400px;
+margin-top: 180px;
+}
